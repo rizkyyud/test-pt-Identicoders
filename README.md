@@ -4,9 +4,7 @@ Testing Untuk Penerimaan Di PT Identicoders
 
 **Requirements**
 Java, Spring, and Maven.
-Jdk 17.
-Springboot 3.3.0
-Maven 3.9.7
+Jdk 17, Springboot 3.3.0, Maven 3.9.7
 
 Dependency:
 Spring Web
